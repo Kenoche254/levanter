@@ -1,5 +1,5 @@
 {
-  "name": "levanter@5.2.3",
+  "name": "Kenoche",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
@@ -100,7 +100,7 @@
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SEND_READ": {
       "description": "send blue tick",
